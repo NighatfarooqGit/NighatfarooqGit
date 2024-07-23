@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    background-color: orangered;
+    font-size: medium;
+    font-family:'Montserrat', sans-serif;
+    text-align: center;
+    flex-grow: 1;
+    margin: 0; 
+    padding: 20px; 
+}
+
+
+nav{
+    background-color: orange;
+    padding: 4px;
+    margin: 7px;
+}
+a{
+    color:white;
+    padding:3px;
+    margin:10px;
+    text-decoration:none;
+    text-align: right;
+}
